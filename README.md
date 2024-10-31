@@ -1,13 +1,13 @@
 # Hola, mi nombre es Jose Alejandro
 ## Soy desarrollador
-<p>
-  - 🔭 I’m currently working on apps
+
+- 🔭 I’m currently working on apps
 - 🌱 I’m currently learning english
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with design
 - 💬 Ask me about cats
 - 📫 How to reach me: sirius2051@protonmail.ch
-</p>
+
 <!--
 **alejandro2051/alejandro2051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
